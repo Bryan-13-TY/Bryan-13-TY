@@ -1,8 +1,6 @@
 # Hi 👋, I'm Bryan Alexis García Escamilla
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bryan-13-TY&label=Profile views&color=0e75b6&style=flat" alt="Bryan-13-TY" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bryan-13-TY" alt="Bryan-13-TY" /></a> </p>
 
 - 🌱 I'm currently learning **React and Docker**
 
