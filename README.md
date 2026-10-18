@@ -34,6 +34,4 @@
 
 ---
 
-<div align="center">
-  <img src="previews/footer-summer.svg" width="820" alt="" />
-</div>
+<img src="previews/footer-summer.svg" width="820" alt="" />
