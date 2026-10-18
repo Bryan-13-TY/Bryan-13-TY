@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bryan Alexis García Escamilla
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bryan-13-TY&show_icons=true&theme=sunset&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bryan-13-TY&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-13-TY&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
