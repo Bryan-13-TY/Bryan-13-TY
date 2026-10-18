@@ -35,5 +35,5 @@
 ---
 
 <div align="center">
-  <img src="previews/footer-winter.svg" width="400" alt="winter garden" />
+  <img src="previews/footer-summer.svg" width="820" alt="" />
 </div>
