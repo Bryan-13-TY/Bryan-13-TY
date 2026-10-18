@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bryan-13-TY&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bryan-13-TY&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-13-TY&layout=compact&theme=radical&langs_count=8" alt="Top languages" />
 </div>
 
