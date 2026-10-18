@@ -1,8 +1,16 @@
 # Hi 👋, I'm Bryan Alexis García Escamilla
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bryan-13-TY&theme=radical&short_numbers=true" alt="GitHub Streak" /></a>
-</p>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bryan-13-TY&layout=compact&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Bryan-13-TY&layout=compact&langs_count=4&theme=radical)
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bryan-13-TY&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-13-TY&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Bryan-13-TY&theme=radical&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bryan-13-TY&theme=radical" width="95%" alt="GitHub activity summary" />
+</div>
 
 ## <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Backend
 <div align="center">
