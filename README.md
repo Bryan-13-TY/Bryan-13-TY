@@ -31,7 +31,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </div>
-
----
-
-<img src="previews/footer-summer.svg" width="820" alt="" />
