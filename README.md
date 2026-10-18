@@ -3,6 +3,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bryan-13-TY&theme=halloween&short_numbers=true)](https://git.io/streak-stats)
 
 <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bryan-13-TY&theme=halloween&short_numbers=true" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
   <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api?username=bryan-13-ty&show=issues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&hide=contribs&theme=dark_github"
