@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://mark.sylphx.com/api/v1/mark/hero.svg?text=Hello,+README&amp;desc=Beautiful+images+from+one+URL&amp;theme=grape&amp;animation=type" alt="Hello, README" />
+  <img src="https://mark.sylphx.com/api/v1/mark/hero.svg?text=Bryan+Alexis+Garc%C3%ADa+Escamilla&amp;desc=Computer+Systems+Engineering+student&amp;theme=grape" alt="Bryan Alexis García Escamilla" />
 </div>
 
 ---
