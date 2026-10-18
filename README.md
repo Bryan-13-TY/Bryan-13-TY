@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bryan Alexis García Escamilla
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bryan-13-TY&theme=halloween&short_numbers=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bryan-13-TY&theme=radical&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
 ## <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Backend
