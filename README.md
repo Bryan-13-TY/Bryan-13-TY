@@ -31,3 +31,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </div>
+
+---
+
+<div align="center">
+  <img src="previews/footer-winter.svg" width="400" alt="winter garden" />
+</div>
