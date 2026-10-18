@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bryan-13-TY&theme=radical&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bryan-13-TY&layout=compact&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Bryan-13-TY&layout=compact&langs_count=4&theme=radical)
 
 ## <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Backend
 <div align="center">
