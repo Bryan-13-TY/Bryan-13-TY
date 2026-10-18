@@ -1,8 +1,6 @@
 # Hi 👋, I'm Bryan Alexis García Escamilla
 
-<div align="center">
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-13-TY&" alt="Bryan-13-TY" /></p>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bryan-13-TY&theme=halloween&short_numbers=true)](https://git.io/streak-stats)
 
 <p align="center">
   <picture>
