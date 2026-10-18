@@ -1,4 +1,7 @@
-<img src="https://mark.sylphx.com/api/v1/mark/hero.svg?text=Hello,+README&amp;desc=Beautiful+images+from+one+URL&amp;theme=grape&amp;animation=type" alt="Hello, README" />
+<div align="center">
+  <img src="https://mark.sylphx.com/api/v1/mark/hero.svg?text=Hello,+README&amp;desc=Beautiful+images+from+one+URL&amp;theme=grape&amp;animation=type" alt="Hello, README" />
+</div>
+
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bryan-13-TY&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-13-TY&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
