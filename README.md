@@ -14,10 +14,10 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=bryan-13-ty&langs_count=4&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=light_github" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=bryan-13-ty&langs_count=4&theme=light_github" />
   </picture>
 </p>
 
